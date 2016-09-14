@@ -1,0 +1,72 @@
+body {
+  background-color: white;
+}
+
+.container{
+  background-color:rgb(240,240,240);
+  margin-top: 70px;
+  margin-bottom: 100px;
+  border-radius: 5px;
+}
+
+.container2{
+  background-color: white;  
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 0px;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: rgb(232,232,232);
+}
+
+.title{
+  font-size: 50px;
+  padding-top: 50px;
+}
+
+.italic{
+  font-style: italic;
+}
+
+.image-center{
+  padding: 5px 5px 0px 5px;
+}
+
+.image-info{
+  padding: 10px 10px 20px 10px;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.timeline{
+  padding-right: 20px;
+  font-size: 25px;
+}
+
+.wrap-life-info{
+  width: 57%;
+  position:relative;
+  left: 20%;
+  margin-top: 30px;
+}
+
+.quote{
+  font-size: 20px;
+  font-weight: 200;
+  padding-top:  10px;
+  padding-left: 80px;
+  padding-left: 20px;
+}
+
+.author{
+  padding-left: 30px;
+  padding-top: 5px;
+  color: gray;
+}
+
+.bold-text{
+  font-weight: bold; 
+}
+
